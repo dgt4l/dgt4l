@@ -28,7 +28,7 @@
     </tr>
   </thead>
     <tr>
-     <td><a href="https://github.com/dgt4l/PictureProcessing">PictureProcessing</a></td>
+     <td><a href="https://github.com/dgt4l/PictureProcessing"><b>PictureProcessing</b></a></td>
     </tr>
 </table>
 
