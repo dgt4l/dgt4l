@@ -6,6 +6,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgt4l&repo=PictureProcessing)](https://github.com/dgt4l/PictureProcessing)
 
+[![ReadMe Card](https://gitlab-readme-stats.vercel.app/api/pin/?username=Roma004&repo=polyclinic-backend)](https://gitlab.com/Roma004/polyclinic-backend)
+
 [![Readme Card](Metagrinder](https://gitlab.uzniki.online/root/metagrinder/)
 
 Languages and Tools:
