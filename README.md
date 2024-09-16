@@ -1,6 +1,6 @@
 ## Hi there, I`m Nikita 👋
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgt4l&repo=metagrinder)](https://gitlab.uzniki.online/root/metagrinder)
+![Oregand's gitlab stats](https://gitlab-readme-stats.vercel.app/api?username=dgt4l)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgt4l&repo=polyclinic-backend)](https://gitlab.com/Roma004/polyclinic-backend)
 
