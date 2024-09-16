@@ -1,11 +1,11 @@
-## Hi there, I`m Nikita 👋
+## Hi, I`m Nikita 👋
 
 <b>Projects:</b>
 
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>📘 Projects</b></td>
+      <td><b>📘Python Projects</b></td>
     </tr>
   </thead>
   <tbody>
@@ -16,14 +16,21 @@
       <td><a href="https://gitlab.com/Roma004/polyclinic-backend"><b>Polyclinic-backend</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/dgt4l/PictureProcessing"><b>PictureProcessing</b></a></td>
-    </tr>
-    <tr>
       <td><a href="https://gitlab.com/dgt4l/graphlabsreports"><b>GraphLabsReports</b></a></td>
     </tr>
   </tbody>
 </table>
 
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘C++ Projects</b></td>
+    </tr>
+  </thead>
+    <tr>
+     <td><a href="https://github.com/dgt4l/PictureProcessing">PictureProcessing</a></td>
+    </tr>
+</table>
 
 <b>Languages and Tools:</b>
 
