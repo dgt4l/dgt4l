@@ -6,3 +6,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgt4l&repo=PictureProcessing)](https://github.com/dgt4l/PictureProcessing)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgt4l&repo=Metagrinder)](https://gitlab.uzniki.online/root/metagrinder/)
