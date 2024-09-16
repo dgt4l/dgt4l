@@ -5,3 +5,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgt4l&repo=github-readme-stats)](https://gitlab.uzniki.online/root/metagrinder)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgt4l&repo=github-readme-stats)](https://gitlab.com/Roma004/polyclinic-backend)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgt4l&repo=github-readme-stats)](https://github.com/dgt4l/PictureProcessing)
+
