@@ -10,7 +10,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://gitlab.uzniki.online/root/metagrinder/"><b>Metagrinder</b></a></td>
+      <td><a href="https://gitlab.com/dgt4l/metagrinder"><b>Metagrinder</b></a></td>
     </tr>
     <tr>
       <td><a href="https://gitlab.com/Roma004/polyclinic-backend"><b>Polyclinic-backend</b></a></td>
